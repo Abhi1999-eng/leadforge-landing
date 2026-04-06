@@ -1,8 +1,10 @@
 /** @type {import('next').NextConfig} */
+const isGitHubPages = process.env.GITHUB_PAGES === 'true';
+
 const nextConfig = {
   output: 'export',
-  basePath: '/leadforge-landing',
-  assetPrefix: '/leadforge-landing/',
+  basePath: isGitHubPages ? '/leadforge-landing' : '',
+  assetPrefix: isGitHubPages ? '/leadforge-landing/' : '',
   images: {
     unoptimized: true,
   },
