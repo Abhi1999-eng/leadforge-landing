@@ -1,0 +1,10 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" rx="24" fill="#0F172A"/>
+  <rect x="32" y="32" width="736" height="160" rx="16" fill="#1E293B"/>
+  <rect x="32" y="212" width="360" height="206" rx="16" fill="#111827"/>
+  <rect x="408" y="212" width="360" height="206" rx="16" fill="#111827"/>
+  <circle cx="140" cy="120" r="46" fill="#22D3EE" opacity="0.2"/>
+  <circle cx="200" cy="120" r="58" fill="#2F6BFF" opacity="0.4"/>
+  <text x="60" y="120" fill="#E2E8F0" font-size="28" font-family="Arial" font-weight="bold">Gym Website</text>
+  <text x="60" y="160" fill="#94A3B8" font-size="16" font-family="Arial">Modern fitness studio layout</text>
+</svg>
